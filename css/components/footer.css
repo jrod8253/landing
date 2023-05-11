@@ -1,0 +1,20 @@
+.footer {
+  padding: 60px;
+  background-color: rgb(51, 50, 50);
+  text-align: center;
+}
+
+.footer a {
+  color: #1EDD88;
+  font-size: 32px;
+  margin: 0 5px;
+}
+
+.footer p {
+  color: gray;
+}
+
+.fa-poop {
+  color: rgb(88, 64, 28);
+  font-size: 20px;
+}
